@@ -6,3 +6,5 @@ La WikiRafa lo es todo, pero si tuviésemos que reducirla a un solo concepto dir
 
 
 WikiRafa es la realidad dentro de la verdad.
+
+![WikiRafa](https://github.com/WikiRafa/.github/blob/main/assets/WikiRedonded.png)
